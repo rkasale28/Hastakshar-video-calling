@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     '0.0.0.0', 
     'localhost', 
     '127.0.0.1',
-    'hastakshar.herokuapp.com'
+    'hastakshar-video-calling.herokuapp.com'
 ]
 
 
